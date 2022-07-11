@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomerIntegrationApp</name>
+    </assembly>
+    <members>
+        <member name="M:CustomerIntegrationApp.Controllers.CustomerCardController.Registrate(CustomerIntegrationApp.Models.CustomerCard)">
+            <summary>
+            Registrates a customer card
+            </summary>
+            <param name="customerCard"></param>
+            <returns></returns>
+        </member>
+        <member name="M:CustomerIntegrationApp.Controllers.CustomerCardController.Validate(CustomerIntegrationApp.Models.CustomerCardValidation)">
+            <summary>
+            Validates a customer card
+            </summary>
+            <param name="customerCardValidation"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
